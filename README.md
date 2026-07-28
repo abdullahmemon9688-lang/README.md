@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abdullah Memon
+# Hi 👋, I'm Abdullah Ghori
 
 💻 Frontend Developer
 
